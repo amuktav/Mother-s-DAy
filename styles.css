@@ -1,0 +1,22 @@
+h1{
+  color: blue;
+  font-family: 'Girassol', cursive;
+}
+
+h4{
+  color: purple;
+  font-family: 'Oswald', sans-serif;
+}
+
+.Amukta{
+  color: #f21170;
+}
+
+body{
+  background-image: url("background.jpeg")
+}
+a{
+  text-decoration: none;
+  font-size: 50px;
+  color: red;
+}
